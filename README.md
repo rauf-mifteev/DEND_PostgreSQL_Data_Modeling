@@ -1,4 +1,4 @@
-* Data Modeling with Postgres for Udacity Data Engineer Nanodegree
+# Data Modeling with Postgres for Udacity Data Engineer Nanodegree
 
 ## Project overview
 This is data modeling with **Postrges** project for Udacity Data Engineer Nanodegree. In this project I create a database schema in **Postgres** database and **ETL** pipeline that would load JSON files into the database using **Python** and **SQL** in order to facilitate the analysis of this data. This JSON files represent a user activity logs collected by a music streaming app of an imarinary startup Sparkify.
