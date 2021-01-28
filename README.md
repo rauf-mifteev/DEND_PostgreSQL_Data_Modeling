@@ -20,7 +20,7 @@ This is data modeling with **Postrges** project for Udacity Data Engineering Nan
 ## Prerequisites
 The code is **Python** in the form of scripts and in a **Jupyter Notebook** and it uses:
 
-* [PostgreSQL](https://https://https://numpy.org/)
+* [PostgreSQL](https://https://numpy.org/)
 * [Psycopg](https://pypi.org/project/psycopg2/)
 * [Pandas](https://pandas.pydata.org/)
 
