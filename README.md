@@ -11,11 +11,11 @@ This is data modeling with **Postrges** project for Udacity Data Engineering Nan
 
 ## Database schema
 
-* artists: Artists in the music database
-* songs: Songs in the music database
-* users: Users of the app
-* songplays: Records of song plays in log files 
-* time: Timestamps of records
+* `artists`: Artists in the music database
+* `songs`: Songs in the music database
+* `users`: Users of the app
+* `songplays`: Records of song plays in log files 
+* `time`: Timestamps of records
 
 ## Prerequisites
 The code is **Python** in the form of scripts and in a **Jupyter Notebook** and it uses:
