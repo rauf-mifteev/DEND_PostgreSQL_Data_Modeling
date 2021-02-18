@@ -27,5 +27,7 @@ The code is **Python** in the form of scripts and in a **Jupyter Notebook** and 
 ## Run the Code
 
 `jupyter notebook etl.ipynb`
+
 `python create_tables.py`
+
 `python etl.py`
